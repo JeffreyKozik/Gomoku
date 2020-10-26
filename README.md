@@ -1,1 +1,2 @@
 # Gomoku
+2-player game created in JavaFX; users must follow various rules (three-and-three rule, four-and-four rule) and win with  exactly 5 in a row. User can also choose to create a different size board (other than default 19x19), and a different amount in a row needed to win. Additionally, there is an AI mode for user to play against which calculates move based on how many 2, 3, or 4 in a row sets the move forms and the sets it blocks.
