@@ -18,7 +18,7 @@ Default board size is 19x19 and default needed to win is 5 in a row
 
 <h2> Notes </h2>
 <ul>
-  <li>This program uses JavaFX which doesn't work with the latest version of Java (JDK 15.0.1 https://jdk.java.net/15/) last time I checked. I use Java 8 (https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)</li>
+  <li>This program uses JavaFX which doesn't work with the latest version of Java (JDK 15.0.1 https://jdk.java.net/15/) last time I checked. I used Java 8 (https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)</li>
 </ul>
 
 
