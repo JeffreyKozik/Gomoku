@@ -16,6 +16,11 @@ Default board size is 19x19 and default needed to win is 5 in a row
   <li>java Gomoku computer creates a default game (19x19, 5 in a row wins) where the user goes first and plays against the AI. The way the AI works is it assigns a point value to creating 2, 3, 4, 5 in a row sets and to blocking 2, 3, 4, and 5 in a row sets and it then chooses the move with the highest point value. I designed it to be pretty defensive, although you can change the values in the code if you'd like. It's actually pretty good! It has beaten me on multiple occasions and has beaten multiple of my friends. I eventually figured out a surefire strategy, but I was impressed with how effective the AI was without even incorporating machine learning or anything as sophisticated as that. </li>
 </ul>
 
+<h2> Notes </h2>
+<ul>
+  <li>This program uses JavaFX which doesn't work with the latest version of Java (JDK 15.0.1 https://jdk.java.net/15/) last time I checked. I use Java 8 (https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)</li>
+</ul>
+
 
 
 
