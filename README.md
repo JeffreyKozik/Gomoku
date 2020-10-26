@@ -1,7 +1,7 @@
 # Gomoku
 <h2> Rules </h2>
 <ul> 
-  <li>Three-and-three rule: player can't make a move that allows them to have 2 sets of three in a row where both sets are open on both ends</li>
+  <li>Three-and-three rule: player can't make a move that allows them to have 2 sets of three in a row where both sets are open on both ends </li>
   <li>Four-and-four rule: player can't make a move that allows them to have 2 sets of four in a row (whether or not the sets are open on the ends)</li>
   <li>Overline rule: player must win with exactly 5 in a row</li>
 </ul>
