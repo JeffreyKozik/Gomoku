@@ -26,7 +26,7 @@ Default board size is 19x19 and default needed to win is 5 in a row.
 
 
 
-
+ 
 
 
 
